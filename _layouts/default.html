@@ -31,9 +31,7 @@
   </head>
   <body>
 
-    <header>
-      {{ site.title }}
-    </header>
+    <header>{{ site.title }}</header>
 
     <div id="content">
 
@@ -59,15 +57,14 @@
 
       </section>
 
-      <section>
-        {{ content }}
-      </section>
+      <section>{{ content }}</section>
 
     </div>
 
     <footer>
-      {% octicon code %} with <span class="love" title="love">❤</span> by
-      <a href="/" class="by">@{{ site.github.owner_name }}</a>
+      <span class="code" title="Code">{% octicon code %}</span> with
+      <span class="love" title="Love">{% octicon heart %}</span> by
+      <span class="by"><a href="/">@{{ site.github.owner_name }}</a></span>
     </footer>
 
   </body>
