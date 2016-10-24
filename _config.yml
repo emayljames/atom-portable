@@ -17,4 +17,3 @@ exclude:
   - vendor/
 gems:
   - jekyll-sitemap
-  - jekyll-octicons
