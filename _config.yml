@@ -17,3 +17,5 @@ exclude:
   - vendor/
 gems:
   - jekyll-sitemap
+
+theme: jekyll-theme-slate
