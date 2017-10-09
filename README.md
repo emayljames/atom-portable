@@ -10,7 +10,7 @@ with you wherever you go.
 All downloads available [in the Releases section][D1]. Atom Portable is packaged
 as an online installer and complete zip file.
 
- [D1]: https://github.com/garethflowers/atom-portable/releases/latest
+ [D1]: https://github.com/emayljames/atom-portable/releases
 
 ## Features
 * Runs a full copy of the Atom editor.
@@ -18,7 +18,6 @@ as an online installer and complete zip file.
   OneDrive, etc.) or hard drive.
 * Does not require administrator privileges, works for any user.
 * No need for any external software - simply download extract and run!
-* Packaged in PortableApps.com format for easy integration.
 
 ## System Requirements
 * Microsoft Windows 7 or later.
@@ -39,5 +38,5 @@ as an online installer and complete zip file.
 * Portable application code released under [the MIT license][L1].
 * The Atom text editor is released under [the MIT license][L2].
 
- [L1]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/LICENSE
+ [L1]: https://github.com/emayljames/atom-portable/blob/gh-pages/LICENSE
  [L2]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
