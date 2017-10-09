@@ -8,7 +8,7 @@ with you wherever you go.
 
 ## Download
 All downloads available [in the Releases section][D1]. Atom Portable is packaged
-as an online installer and complete zip file.
+as an ~~online installer and~~ complete zip file.
 
  [D1]: https://github.com/emayljames/atom-portable/releases
 
